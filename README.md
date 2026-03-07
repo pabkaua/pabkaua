@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá! Bem vindo ao meu Github!
 
-<!--
-**pabkaua/pabkaua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖 Sou estudante de **Sistemas de informação** na [UPE](https://www.upe.br/), atualmente no 3º período.
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Estudando:
+
+<div align="left">
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img width='50' height='50' src="https://img.icons8.com/color/48/000000/c-programming.png" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
+
+##
+
+### 📷 Redes Sociais:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kau%C3%A3-pablo-765b96358/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/pabkaua/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:kauapablo940@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
