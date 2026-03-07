@@ -2,6 +2,8 @@
 
 📖 Sou estudante de **Sistemas de informação** na [UPE](https://www.upe.br/), atualmente no 3º período.
 
+![snake animation](https://github.com/pabkaua/pabkaua/blob/output/github-contribution-grid-snake2.svg)
+
 ##
 
 ### 💻 Estudando:
