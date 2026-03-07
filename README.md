@@ -2,13 +2,18 @@
 
 📖 Sou estudante de **Sistemas de informação** na [UPE](https://www.upe.br/), atualmente no 3º período.
 
-![snake animation](https://github.com/pabkaua/pabkaua/blob/output/github-contribution-grid-snake2.svg)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=pabkaua&theme=transparent&hide_border=true&locale=pt_BR&card_width=900" alt="GitHub Streak" />
+  </a>
+</div>
+
 
 ##
 
 ### 💻 Estudando:
 
-<div align="left">
+<div align="center">
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img width='50' height='50' src="https://img.icons8.com/color/48/000000/c-programming.png" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -19,7 +24,7 @@
 
 ### 📷 Redes Sociais:
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/kau%C3%A3-pablo-765b96358/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
