@@ -2,25 +2,27 @@
 
 📖 Sou estudante de **Sistemas de informação** na [UPE](https://www.upe.br/), atualmente no 3º período.
 
+##
+### 📈 Estatísticas:
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=pabkaua&theme=transparent&hide_border=true&locale=pt_BR&card_width=900" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=pabkaua&theme=graywhite&hide_border=true&locale=pt_BR&card_width=980" alt="GitHub Streak" />
   </a>
 </div>
 
+<div align="center">
+  <img width="476" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pabkaua&show_icons=true&title_color=24292E&text_color=24292E&icon_color=24292E&bg_color=FFFFFF&hide_border=true" />
+  <img width="500" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pabkaua&theme=graywhite&show_icons=true&hide_border=true&layout=compact" />
+</div>
 
 ##
-
 ### 💻 Estudando:
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,js" />
 </div>
 
 ##
-
 ### 📷 Redes Sociais:
-
 <div align="center">
   <a href="https://www.linkedin.com/in/kau%C3%A3-pablo-765b96358/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
