@@ -22,6 +22,12 @@
 </div>
 
 ##
+### 🔧 Ferramentas:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,discord,figma,git,github,latex,maven,notion" />
+</div>
+
+##
 ### 📷 Redes Sociais:
 <div align="center">
   <a href="https://www.linkedin.com/in/kau%C3%A3-pablo-765b96358/">
